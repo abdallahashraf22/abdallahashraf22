@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Ashraf</h1>
 <h3 align="center">A passionate fullStack developer from Egypt</h3>
 
-- 🔭 I’m currently working on graduating from [ITI](https://iti.gov.eg) along with finishing [CS50X](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- 🔭 I’m currently working on graduating from [ITI](https://iti.gov.eg) , Finally finished CS50x AND got certified as RedHat certified system administrator
 
 - 🌱 I’m currently learning **NodeJS, React, VueJs, finishing CS50X and going to start CS50W on the side**
 
