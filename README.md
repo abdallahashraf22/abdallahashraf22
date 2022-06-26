@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on graduating from [ITI](https://iti.gov.eg) , Finally finished CS50x AND got certified as RedHat certified system administrator
 
-- 🌱 I’m currently learning **NodeJS, React, VueJs, and going to start CS50W on the side**
+- 🌱 I’m currently learning **Django, and going to start CS50W on the side**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdallahashraf22](https://github.com/abdallahashraf22)
 
